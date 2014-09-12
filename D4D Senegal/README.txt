@@ -32,4 +32,4 @@ figures/
 
 publications/
     journal.pone.0094741.pdf 
-        Description of methods used in generating climate rasters from weather station and satellite data
+        Description of methods for generating rasters from weather station and satellite data
