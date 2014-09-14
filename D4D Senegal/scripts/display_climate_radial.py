@@ -94,7 +94,7 @@ def get_rainfall_data(channel_data, temperature_data):
 
 if __name__ == '__main__':
 
-    inputdir='../data'
+    inputdir='../climate_data'
     year = 2013
     geostring=['Senegal_Gambia_2.5arcmin']
    

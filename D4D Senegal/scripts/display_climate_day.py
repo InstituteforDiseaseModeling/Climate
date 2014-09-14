@@ -7,7 +7,7 @@ import matplotlib as mpl
 import matplotlib.pyplot as plt
 from matplotlib.widgets import Button
 
-basepath='../data'
+basepath='../climate_data'
 
 def get_country_shape():
     with open(os.path.join(basepath,'Senegal_GeoJson.json'),'r') as f:
